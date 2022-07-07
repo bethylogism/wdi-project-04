@@ -33,7 +33,7 @@
     "filestack-react": "^2.0.2",
     "html-webpack-plugin": "^3.2.0",
     "mapbox-gl": "^0.53.1",
-    "moment": "^2.24.0",
+    "moment": "^2.29.4",
     "node-sass": "^4.11.0",
     "react": "^16.8.3",
     "react-dom": "^16.8.3",
